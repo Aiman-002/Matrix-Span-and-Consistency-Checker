@@ -1,2 +1,5 @@
 # Matrix-Span-and-Consistency-Checker
 Matrix Span and Consistency Checker is a Java program designed for linear algebra projects. This program allows users to input square or rectangular matrices and performs analysis to determine if the matrices span the vector space and if the system represented by the matrices is consistent or inconsistent.
+For square matrices, the program calculates the determinant and checks if it is equal to zero, indicating whether the matrix spans the vector space or not. In the case of rectangular matrices, the program applies the Gauss-Jordan elimination method to convert the matrix into reduced row echelon form. It then examines the resulting matrix to determine if the system is consistent or inconsistent.
+
+By using this tool, students and enthusiasts of linear algebra can quickly assess the span and consistency of matrices, providing valuable insights into the behavior of linear systems. Whether you are studying linear algebra or working on related projects, this Matrix Span and Consistency Checker is a valuable resource for analyzing matrix properties.
